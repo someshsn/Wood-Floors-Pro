@@ -62,12 +62,18 @@ This Power BI dashboard project was developed to provide actionable insights int
 <b>🖼️ Dashboard Previews</b>
 
 <b>Home Page View</b>  
-![Home Page](https://github.com/yourusername/Floors-Furniture-Dashboard/blob/main/screenshots/home_page.png)
+![Home Page](https://github.com/someshsn/Wood-Floors-Pro/blob/main/Home%20Page.png)
 
 <b>Sales & Profit Dashboard</b>  
-![Sales Dashboard](https://github.com/yourusername/Floors-Furniture-Dashboard/blob/main/screenshots/sales_profit_dashboard.png)
+![Sales Dashboard](https://github.com/someshsn/Wood-Floors-Pro/blob/main/Sales%20Dashboard.png)
 
-<b>Inventory Dashboard</b>  
-![Inventory Dashboard](https://github.com/yourusername/Floors-Furniture-Dashboard/blob/main/screenshots/inventory_dashboard.png)
+<b>GST Dashboard</b>  
+![Gst Dashboard](https://github.com/someshsn/Wood-Floors-Pro/blob/main/Gst%20Visuals.png
+)
+
+<b>Reports</b>  
+![Reports](https://github.com/someshsn/Wood-Floors-Pro/blob/main/Reports.png
+)
+
 
 ---
